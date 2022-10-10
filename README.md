@@ -1,1 +1,1 @@
-# Please do change the variable names atleast. 😀
+# Please do change the variable and functions names atleast. 😀
